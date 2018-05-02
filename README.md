@@ -1,7 +1,7 @@
 # AlmaDonationBot
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/almatrass/AlmaDonationBot/blob/master/LICENSE)
 
-This is a simple bot, created by me to solve the problem of OPSkins sending me 50 separate trade offers and having to accept them all. The bot will accept all incoming donation offers, and decline all offers in which you will be required to give items. 
+This is a simple Steam bot, created by me to solve the problem of OPSkins sending me 50 separate trade offers and having to accept them all. The bot will accept all incoming donation offers, and decline all offers in which you will be required to give items. 
 
 ### Setup and Usage
 
