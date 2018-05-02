@@ -1,0 +1,30 @@
+{
+  "name": "almadonationbot",
+  "version": "1.0.0",
+  "description": "A simple bot for automatically accepting Steam donations/opskins withdrawals",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Steam",
+    "Bot",
+    "opskins",
+    "withdraw",
+    "accept",
+    "trade",
+    "offer",
+    "donation",
+    "bot",
+    "nodejs",
+    "steambot"
+  ],
+  "author": "Almatrass",
+  "license": "MIT",
+  "dependencies": {
+    "steam-totp": "^2.1.0",
+    "steam-tradeoffer-manager": "^2.9.3",
+    "steam-user": "^3.27.1",
+    "steamcommunity": "^3.36.1"
+  }
+}
