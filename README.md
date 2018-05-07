@@ -13,4 +13,5 @@ The `config.js` file is the only file you need to edit, and is fairly self-expla
 
 For Windows users, simply just run the `install.bat`, then `start.bat` files. 
 
-For Linux/Mac users, navigate to the directory in Terminal, eg. `cd /home/user/AlmaDonationBot-master`. The run command `npm i`, and then `node bot` to run the bot. 
+For Linux/Mac users, navigate to the directory in Terminal, eg. `cd /home/user/AlmaDonationBot-master`. 
+Then run the command `npm i`, and then `node bot` to run the bot. 
